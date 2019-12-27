@@ -145,6 +145,7 @@
         android:background="?android:attr/listDivider"
         android:contentDescription="first Image"
         android:paddingLeft="10dp"
+
         android:paddingRight="10dp" />
 
     <TextView
